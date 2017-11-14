@@ -1,2 +1,3 @@
 # sassdoc-theme-cerberus
-This is a custom theme from Cerberus team)
+
+> A fancy new SassDoc theme.
